@@ -1,0 +1,3 @@
+rootProject.name = 'appbanhang'
+
+include ':app'
